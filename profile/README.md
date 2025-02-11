@@ -1,6 +1,6 @@
 This organization houses all components that make up the Companion ecosystem.
 
-**Our update paper featuring Companion version 2 has now been published:
+**Our update paper featuring Companion version 2:
 https://doi.org/10.1093/nar/gkae378**
 
 <!--
